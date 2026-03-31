@@ -20,11 +20,11 @@ Mozilla Firefox is a web browser developed by Mozilla. It is developed with the 
 
 ## Project Structure
 
-script1.sh - Displays system information (OS, kernel, user, uptime) 
-script2.sh - Checks whether Firefox is installed 
-script3.sh - Audits disk usage and directory permissions 
-script4.sh - Analyzes log files for specific keywords 
-script5.sh - Generates an open-source manifesto 
+- **script1.sh** – Displays system information (OS, kernel, user, uptime)  
+- **script2.sh** – Checks whether Firefox is installed  
+- **script3.sh** – Audits disk usage and directory permissions  
+- **script4.sh** – Analyzes log files for specific keywords  
+- **script5.sh** – Generates an open-source manifesto  
 
 ---
 
@@ -32,7 +32,7 @@ script5.sh - Generates an open-source manifesto
 
 ### Navigate to Project Folder
 
-bash
+```bash
 cd ~/your-folder-name
 
 ### Create Script Files
